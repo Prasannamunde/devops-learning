@@ -1,0 +1,8 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Building Node application",
+    "test": "echo Running tests"
+  }
+}
